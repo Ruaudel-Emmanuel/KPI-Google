@@ -1,0 +1,6 @@
+{
+  "sheet_id": "YOUR_SHEET_ID_HERE",
+  "range": "Raw_Data!A:F",
+  "credentials_path": "./google-credentials.json",
+  "refresh_interval_minutes": 5
+}
