@@ -9,7 +9,7 @@ Ce projet démontre une **solution production-ready** pour transformer des donn�
 - **4 graphiques interactifs** : Revenu par canal, Distribution des statuts, Revenu par commercial, Tendance journalière
 - **Filtres dynamiques** : Par canal, commercial, statut
 - **Tableau de données** : Vue brute des dernières 20 lignes
-- **Synchronisation automatique** : Rafraîchissement toutes les 5 minutes
+- **Synchronisation automatique** : Rafraîchissement toutes les 10 minutes
 
 ## 📁 Structure
 
