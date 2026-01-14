@@ -19,7 +19,6 @@
 - 4 KPI cards (Revenu, Deals, Conversion)
 - 4 graphiques interactifs
 - Filtres dynamiques
-- Responsive design
 
 ### 2️⃣ **Script Python** (pour connecter Google Sheets)
 - Fichier : `api_integration.py`
